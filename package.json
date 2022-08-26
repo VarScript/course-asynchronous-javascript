@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/VarScript/course-asynchronous-javascript/issues"
   },
-  "homepage": "https://github.com/VarScript/course-asynchronous-javascript#readme"
+  "homepage": "https://github.com/VarScript/course-asynchronous-javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
